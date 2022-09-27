@@ -12,7 +12,7 @@ namespace CursoCSharp01.Fundamentos
         {
             // convertendo valores de forma explicita
             double nota = 9.7;
-            int notaTruncada = (int) nota; // cast - consiste em forçar a conversão do valopr antigo para o entre parenteses.
+            int notaTruncada = (int) nota; // casting - consiste em forçar a conversão do valopr antigo para o entre parenteses.
 
             Console.WriteLine($"Nota truncada: {notaTruncada}");
         }
