@@ -22,6 +22,8 @@ namespace CursoCSharp01
                 //Classes e metodos
                 {"Membros - Classes e métodos", Membros.Executar},
                 {"Construtores - Classes e métodos", Construtores.Executar},
+                {"Params - Classes e métodos", Params.Executar},
+                {"Parametros nomeados - Classes e métodos", ParametrosNomeados.Executar},
             });
 
             central.SelecionarEExecutar();
