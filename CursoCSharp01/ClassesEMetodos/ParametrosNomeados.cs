@@ -14,11 +14,10 @@ namespace CursoCSharp01.ClassesEMetodos
         }
         public static void Executar()
         {
-<<<<<<< HEAD
+
             Formatar(dia: 10, mes: 6, ano: 1998);
-=======
+
             Formatar(mes: 6, dia: 10, ano: 1998);
->>>>>>> c572b0a0dd7a60d90dad9ae887cbce82207ab0ec
         }
     }
 }
