@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\bin\Debug\net6.0\PraticaLinguagem.exe
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\bin\Debug\net6.0\PraticaLinguagem.deps.json
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\bin\Debug\net6.0\PraticaLinguagem.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\bin\Debug\net6.0\PraticaLinguagem.dll
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\bin\Debug\net6.0\PraticaLinguagem.pdb
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.dll
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\refint\PraticaLinguagem.dll
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.pdb
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\PraticaLinguagem.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Pratica\PraticaLinguagem\obj\Debug\net6.0\ref\PraticaLinguagem.dll
