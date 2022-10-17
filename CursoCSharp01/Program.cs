@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using CursoCSharp01.ClassesEMetodos;
 using CursoCSharp01.Fundamentos;
-
+using CursoCSharp01.Colecoes;
 
 namespace CursoCSharp01
 {
@@ -35,7 +35,12 @@ namespace CursoCSharp01
                 {"Structs - Classes e métodos", ExemploStructs.Executar},
                 {"Struct vs Classe - Classes e métodos", StructVsClasse.Executar},
                 {"Atribuição valor x referencia - Classes e métodos", ValorVsReferencia.Executar},
-                {"Parametros por referencia - Classes e métodos", ParametrosPorReferencia.Executar}
+                {"Parametros por referencia - Classes e métodos", ParametrosPorReferencia.Executar},
+
+                // Coleções
+                {"Array - Coleções", Colecoes.Array.Executar},
+                {"List - Coleções", ColecoesList.Executar},
+
             });
 
             central.SelecionarEExecutar();
