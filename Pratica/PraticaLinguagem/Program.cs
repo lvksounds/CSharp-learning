@@ -11,7 +11,8 @@ namespace PraticaLinguagem.ExerciciosBeeCrowd.Iniciante
     {
         public static void Main()
         {
-            TempoEvento.CalculaTempo();
+            string nome = "Lucas de Freitas Oliveira";
+            int countSpaces = nome.Count(Char.IsWhiteSpace);
         }
     }
 }
