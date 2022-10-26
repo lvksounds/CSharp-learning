@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp01.Colecoes
 {
-    internal class ColecoesList
+    class ColecoesList
     {
         public class Produto
         {
@@ -36,6 +36,8 @@ namespace CursoCSharp01.Colecoes
             carrinho.AddRange(combo);
             Console.WriteLine(carrinho.Count);
             carrinho.RemoveAt(3);
+
+            
 
             foreach(var item in carrinho)
             {
