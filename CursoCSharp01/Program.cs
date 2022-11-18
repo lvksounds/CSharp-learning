@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CursoCSharp01.ClassesEMetodos;
 using CursoCSharp01.Fundamentos;
 using CursoCSharp01.Colecoes;
+using CursoCSharp01.OO;
 
 namespace CursoCSharp01
 {
@@ -46,6 +47,12 @@ namespace CursoCSharp01
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Stack - Coleções", ColecoesStack.Executar},
                 {"Disctionary - Coleções", ColecoesDisctionary.Executar},
+
+                //Orientação a objetos
+                {"Herança - O.O", Heranca.Executar},
+                {"Construtor this - O.O", ConstrutorThis.Executar},
+                {"Encapsulamento - O.O", Encapsulamento.Executar},
+                
             });
 
             central.SelecionarEExecutar();

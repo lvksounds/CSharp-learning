@@ -31,7 +31,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,6 +65,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
