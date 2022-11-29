@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AmigoProximo.cs" />
+    <Compile Include="FilhoReconhecido.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SubCelebridade.cs" />
   </ItemGroup>
