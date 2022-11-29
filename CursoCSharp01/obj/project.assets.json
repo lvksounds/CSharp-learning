@@ -26,24 +26,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucas.freitas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lvkso\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\CursoCSharp01\\CursoCSharp01.csproj",
+      "projectUniqueName": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\C#_Curso_Completo\\CSharp-learning\\CursoCSharp01\\CursoCSharp01.csproj",
       "projectName": "CursoCSharp01",
-      "projectPath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\CursoCSharp01\\CursoCSharp01.csproj",
-      "packagesPath": "C:\\Users\\lucas.freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\CursoCSharp01\\obj\\",
+      "projectPath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\C#_Curso_Completo\\CSharp-learning\\CursoCSharp01\\CursoCSharp01.csproj",
+      "packagesPath": "C:\\Users\\lvkso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\C#_Curso_Completo\\CSharp-learning\\CursoCSharp01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lucas.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\lvkso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +52,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\lucas.freitas\\Documents\\Cursos\\Udemy\\C#\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj"
+            "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\C#_Curso_Completo\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\C#_Curso_Completo\\CSharp-learning\\Encapsulamento\\Encapsulamento.csproj"
             }
           }
         }
@@ -88,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
