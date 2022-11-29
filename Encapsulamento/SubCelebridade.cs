@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Encapsulamento
 {
-    class SubCelebridade
+    public class SubCelebridade
     {
+        // niveis de acesso dos atributos
+
         // Todos
         public string InfoPublica = "Tenho um instagram!";
 
@@ -17,9 +19,26 @@ namespace Encapsulamento
         // mesmo projeto (Assembly)
         internal ulong NumeroCelular = 5511999999999;
 
-        // mesma classe
-        // parei em 6:34
+        // herança e mesmo projeto
+        protected internal string JeitoDeFalar = "Uso muitas girias";
 
+        // mesma classe ou herança no mesmo projeto
+        private protected string SegredoFamilia = "Bla Bla";
+
+        //private - padrao, visivel apenas dentro da propria classe
+        bool UsaMuitoPhotoshop = true;
+
+        public void MeusAcessos()
+        {
+            Console.WriteLine("Subcelebridade");
+
+            Console.WriteLine(InfoPublica);
+            Console.WriteLine(CorDosOlhos);
+            Console.WriteLine(NumeroCelular);
+            Console.WriteLine(JeitoDeFalar);
+            Console.WriteLine(SegredoFamilia);
+            Console.WriteLine(UsaMuitoPhotoshop);
+        }
 
     }
 }

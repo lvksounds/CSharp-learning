@@ -1,0 +1,6 @@
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\Encapsulamento\obj\Debug\Encapsulamento.pdb

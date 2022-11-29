@@ -51,7 +51,7 @@ namespace CursoCSharp01
                 //Orientação a objetos
                 {"Herança - O.O", Heranca.Executar},
                 {"Construtor this - O.O", ConstrutorThis.Executar},
-                {"Encapsulamento - O.O", Encapsulamento.Executar},
+                {"Construtor this - O.O", OO.Encapsulamento.Executar},
                 
             });
 
