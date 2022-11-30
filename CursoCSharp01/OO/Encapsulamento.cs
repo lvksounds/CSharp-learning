@@ -38,8 +38,8 @@ namespace CursoCSharp01.OO
             SubCelebridade sub = new SubCelebridade();
             sub.MeusAcessos();
 
-            new FilhoReconhecido.MeusAcessos();
-            new AmigoProximo.MeusAcessos();
+            //new FilhoReconhecido.MeusAcessos();
+            //new AmigoProximo.MeusAcessos();
         }
     }
 }
