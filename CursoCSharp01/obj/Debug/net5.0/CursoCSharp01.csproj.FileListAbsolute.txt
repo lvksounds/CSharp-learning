@@ -46,6 +46,3 @@ C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\o
 C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\obj\Debug\net5.0\CursoCSharp01.pdb
 C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\obj\Debug\net5.0\CursoCSharp01.genruntimeconfig.cache
 C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\obj\Debug\net5.0\ref\CursoCSharp01.dll
-C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\bin\Debug\net5.0\Encapsulamento.dll
-C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\bin\Debug\net5.0\Encapsulamento.pdb
-C:\Users\lucas.freitas\Documents\Cursos\Udemy\C#\CSharp-learning\CursoCSharp01\obj\Debug\net5.0\CursoCSharp01.csproj.CopyComplete

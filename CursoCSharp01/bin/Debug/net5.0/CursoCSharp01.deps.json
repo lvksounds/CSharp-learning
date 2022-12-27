@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "CursoCSharp01/1.0.0": {
-        "dependencies": {
-          "Encapsulamento": "1.0.0"
-        },
         "runtime": {
           "CursoCSharp01.dll": {}
-        }
-      },
-      "Encapsulamento/1.0.0": {
-        "runtime": {
-          "Encapsulamento.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CursoCSharp01/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Encapsulamento/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
