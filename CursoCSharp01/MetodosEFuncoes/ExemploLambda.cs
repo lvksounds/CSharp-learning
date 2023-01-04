@@ -10,7 +10,7 @@ namespace CursoCSharp01.MetodosEFuncoes
     {
         public static void Executar()
         {
-            Action algoNoConsole = () => Console.WriteLine("Algo no console.");
+            Action algoNoConsole = () => Console.WriteLine("Lambda com C#!");
 
             algoNoConsole();
 
@@ -22,11 +22,14 @@ namespace CursoCSharp01.MetodosEFuncoes
 
             Console.WriteLine(jogarDado());
 
+            Func<int, string> conversorHex = numero => numero.ToString("X");
 
-            Func<int, string> conversorHex = (numero) => numero.ToString("X");
+            Console.Write(conversorHex(2837));
 
-            Console.WriteLine(conversorHex(1234));
-        
+            Func<int, int, int, string> formatarData = (dia, mes, ano) =>
+                string.Format("\n{0:D2}/{1:D2}/{2:D2}", dia, mes , ano);
+
+            Console.WriteLine(formatarData(10, 06, 1998));
         }
     }
 }
