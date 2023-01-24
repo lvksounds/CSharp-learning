@@ -7,6 +7,7 @@ using CursoCSharp01.Colecoes;
 using CursoCSharp01.OO;
 using CursoCSharp01.Excecoes;
 using CursoCSharp01.Api;
+using CursoCSharp01.TopicosAvancados;
 
 namespace CursoCSharp01
 {
@@ -76,6 +77,12 @@ namespace CursoCSharp01
                 {"Exemplo FIleInfo -  Explorando API", ExemploFileInfo.Executar},
                 {"Diretórios -  Explorando API", Diretorios.Executar},
                 {"DirectoryInfo -  Explorando API", ExemploDirectoryInfo.Executar},
+                {"Usando Path -  Explorando API", ExemploPath.Executar},
+
+                // Tópicos avançados
+                {"LINQ1 -  Topicos avançados", LINQ1.Executar},
+                {"LINQ2 -  Topicos avançados", LINQ2.Executar},
+
             });
 
             central.SelecionarEExecutar();
